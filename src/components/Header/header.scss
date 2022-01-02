@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(83, 82, 79);
+  color: white;
+
+  .logo {
+    font-size: 30px;
+  }
+  
+  .navbar {
+    display: flex;
+
+    p {
+      margin-right: 10px;
+    }
+  }
+}
